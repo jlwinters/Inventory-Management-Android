@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main UI -->
+    <string name="app_name">Inventorial</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="create">Create</string>
+    <string name="item">New item?</string>
+    <string name="cancel">Cancel</string>
+    <string name="item_exists">The item "%1$s" already exists.</string>
+    <string name="select_item">Select a item:</string>
+    <string name="undo">Undo</string>
+    <string name="settings">Notifications</string>
+    <string name="credits">Developed by Jacob Winters</string>
+    <!-- SMS Functionality -->
+    <string name="sms_permission_granted">Notifications enabled</string>
+    <string name="sms_permission_denied">Notifications disabled</string>
+    <string name="sms_permission_available">Notifications available</string>
+    <string name="sms_unavailable">Notifications unavailable</string>
+    <string name="sms_access_required">SMS access required</string>
+    <string name="sms_enable">Enable SMS Notifications</string>
+    <string name="ok">OK</string>
+    <!-- Login/Registration -->
+    <string name="hint_name">Name</string>
+    <string name="hint_user">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_user">Enter Valid Username</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">New member? Register</string>
+    <string name="text_already_member">Existing member? Login</string>
+    <string name="error_user_exists">Username Already Exists</string>
+    <string name="error_password_match">Passwords Do Not Match</string>
+    <string name="error_valid_user_password">Wrong Username or Password</string>
+    <string name="channel_name">Channel name</string>
+    <string name="channel_description">Channel description</string>
+    <string name="snooze">Snooze</string>
+    <!-- Add Item Functionality -->
+    <string name="add_item">Add Item</string>
+    <string name="item_name">Enter Item Name</string>
+    <string name="hint_item_name">Item Name</string>
+    <string name="empty">0</string>
+    <string name="item_description">Item Description</string>
+    <string name="increase_label_description">Increase quantity</string>
+    <string name="decrease_label_description">Decrease quantity</string>
+    <string name="add_item_button">Add Item</string>
+
+
+</resources>
