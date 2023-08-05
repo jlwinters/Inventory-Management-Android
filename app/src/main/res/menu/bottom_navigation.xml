@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_transform"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="@string/menu_inventory" />
+        <item
+            android:id="@+id/nav_notifs"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="@string/menu_notifs" />
+    </group>
+</menu>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Inventory Tracker</string>
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome, "</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="username">user</string>
+    <!-- Strings related to other UI -->
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">jwinterscs@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <!-- Strings related to bottom navigation -->
+    <string name="menu_inventory">Inventory</string>
+    <string name="menu_notifs">Notifications</string>
+    <!-- Strings related to buttons -->
+    <string name="fab_content_description">Add an item</string>
+    <string name="delete">Delete</string>
+    <string name="add" />
+    <string name="sub" />
+</resources>
